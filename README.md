@@ -14,5 +14,7 @@ Basic Usage:
 
 Detailed codes in app/main.js
 
-**![alt tag](**<https://github.com/rymaspic/LeapMotion-Battleship/blob/master/img/demo.png>**)**
+```
+![demo](https://github.com/rymaspic/LeapMotion-Battleship/blob/master/img/demo.png)
+```
 
