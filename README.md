@@ -14,7 +14,8 @@ Basic Usage:
 
 Detailed codes in app/main.js
 
-```
-![demo](https://github.com/rymaspic/LeapMotion-Battleship/blob/master/img/demo.png)
-```
 
+
+```
+[[https://github.com/rymaspic/LeapMotion-Battleship/blob/master/img/demo.png|alt=odemo]]
+```
